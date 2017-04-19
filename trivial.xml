@@ -1,4 +1,4 @@
-<testsuites>
+<testsuites name="all">
   <testsuite name="trivial">
    <testcase name="c_hello"></testcase>
    <testcase name="c_ring"></testcase>
