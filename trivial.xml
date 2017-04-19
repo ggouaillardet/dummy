@@ -1,5 +1,5 @@
 <testsuites>
-  <testsuite name="trivial" errors="0" tests="6" failures="0" time="0" timestamp="2017-04-19T10:23:58">
+  <testsuite>
    <testcase name="c_hello"></testcase>
    <testcase name="c_ring"></testcase>
    <testcase name="hello_mpifh"></testcase>
