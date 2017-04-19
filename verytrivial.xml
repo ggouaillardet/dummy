@@ -1,8 +1,7 @@
 <testsuites>
   <testsuite name="verytrivial">
    <testcase name="c_fail">
-      <failure type="TestFailed">
-               message="not ok - c_fail><![CDATA[--------------------------------------------------------------------------
+      <failure type="TestFailed" message="not ok - c_fail"><![CDATA[--------------------------------------------------------------------------
 MPI_ABORT was invoked on rank 1 in communicator MPI_COMM_WORLD
 with errorcode 1.
 
