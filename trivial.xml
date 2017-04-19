@@ -1,0 +1,10 @@
+<testsuites>
+  <testsuite>
+   <testcase name="c_hello"></testcase>
+   <testcase name="c_ring"></testcase>
+   <testcase name="hello_mpifh"></testcase>
+   <testcase name="ring_mpifh"></testcase>
+   <testcase name="hello_usempi"></testcase>
+   <testcase name="ring_usempi"></testcase>
+  </testsuite>
+</testsuites>
