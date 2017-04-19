@@ -1,5 +1,5 @@
 <testsuites>
-  <testsuite>
+  <testsuite name="verytrivial">
    <testcase name="c_fail">
       <failure type="TestFailed">
                message="not ok - c_fail><![CDATA[--------------------------------------------------------------------------
